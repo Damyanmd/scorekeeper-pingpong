@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://clinquant-starship-7d492b.netlify.app/">
       Demo for ScoreKeeper
     </a>
   </h3>
@@ -15,8 +15,10 @@
 - [Features](#features)
 
 ## Overview
+<div align="center">
+   <img src="https://github.com/Damyanmd/scorekeeper-pingpong/blob/main/Screenshot.PNG">
+ </div>
 
-![screenshot](https://github.com/Damyanmd/scorekeeper-pingpong/blob/main/Screenshot.PNG)
 
 ### Built With
 
